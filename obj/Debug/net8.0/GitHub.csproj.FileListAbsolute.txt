@@ -1,0 +1,15 @@
+C:\Users\zacck\ProjetosPessoais\Repositórios\GitHub\bin2dec\bin\Debug\net8.0\GitHub.exe
+C:\Users\zacck\ProjetosPessoais\Repositórios\GitHub\bin2dec\bin\Debug\net8.0\GitHub.deps.json
+C:\Users\zacck\ProjetosPessoais\Repositórios\GitHub\bin2dec\bin\Debug\net8.0\GitHub.runtimeconfig.json
+C:\Users\zacck\ProjetosPessoais\Repositórios\GitHub\bin2dec\bin\Debug\net8.0\GitHub.dll
+C:\Users\zacck\ProjetosPessoais\Repositórios\GitHub\bin2dec\bin\Debug\net8.0\GitHub.pdb
+C:\Users\zacck\ProjetosPessoais\Repositórios\GitHub\bin2dec\obj\Debug\net8.0\GitHub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zacck\ProjetosPessoais\Repositórios\GitHub\bin2dec\obj\Debug\net8.0\GitHub.AssemblyInfoInputs.cache
+C:\Users\zacck\ProjetosPessoais\Repositórios\GitHub\bin2dec\obj\Debug\net8.0\GitHub.AssemblyInfo.cs
+C:\Users\zacck\ProjetosPessoais\Repositórios\GitHub\bin2dec\obj\Debug\net8.0\GitHub.csproj.CoreCompileInputs.cache
+C:\Users\zacck\ProjetosPessoais\Repositórios\GitHub\bin2dec\obj\Debug\net8.0\GitHub.sourcelink.json
+C:\Users\zacck\ProjetosPessoais\Repositórios\GitHub\bin2dec\obj\Debug\net8.0\GitHub.dll
+C:\Users\zacck\ProjetosPessoais\Repositórios\GitHub\bin2dec\obj\Debug\net8.0\refint\GitHub.dll
+C:\Users\zacck\ProjetosPessoais\Repositórios\GitHub\bin2dec\obj\Debug\net8.0\GitHub.pdb
+C:\Users\zacck\ProjetosPessoais\Repositórios\GitHub\bin2dec\obj\Debug\net8.0\GitHub.genruntimeconfig.cache
+C:\Users\zacck\ProjetosPessoais\Repositórios\GitHub\bin2dec\obj\Debug\net8.0\ref\GitHub.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zacck\\ProjetosPessoais\\Repositórios\\GitHub\\GitHub.csproj": {}
+    "C:\\Users\\zacck\\ProjetosPessoais\\Repositórios\\GitHub\\bin2dec\\GitHub.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zacck\\ProjetosPessoais\\Repositórios\\GitHub\\GitHub.csproj": {
+    "C:\\Users\\zacck\\ProjetosPessoais\\Repositórios\\GitHub\\bin2dec\\GitHub.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zacck\\ProjetosPessoais\\Repositórios\\GitHub\\GitHub.csproj",
+        "projectUniqueName": "C:\\Users\\zacck\\ProjetosPessoais\\Repositórios\\GitHub\\bin2dec\\GitHub.csproj",
         "projectName": "GitHub",
-        "projectPath": "C:\\Users\\zacck\\ProjetosPessoais\\Repositórios\\GitHub\\GitHub.csproj",
+        "projectPath": "C:\\Users\\zacck\\ProjetosPessoais\\Repositórios\\GitHub\\bin2dec\\GitHub.csproj",
         "packagesPath": "C:\\Users\\zacck\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zacck\\ProjetosPessoais\\Repositórios\\GitHub\\obj\\",
+        "outputPath": "C:\\Users\\zacck\\ProjetosPessoais\\Repositórios\\GitHub\\bin2dec\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
